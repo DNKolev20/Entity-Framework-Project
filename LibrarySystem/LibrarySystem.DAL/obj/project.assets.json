@@ -2953,26 +2953,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DENIS\\.nuget\\packages\\": {}
+    "C:\\Users\\GTZhekov20\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DENIS\\Documents\\Entity-Framework-Project\\LibrarySystem\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\GTZhekov20\\source\\repos\\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\\LibrarySystem\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
       "projectName": "LibrarySystem.DAL",
-      "projectPath": "C:\\Users\\DENIS\\Documents\\Entity-Framework-Project\\LibrarySystem\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
-      "packagesPath": "C:\\Users\\DENIS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DENIS\\Documents\\Entity-Framework-Project\\LibrarySystem\\LibrarySystem.DAL\\obj\\",
+      "projectPath": "C:\\Users\\GTZhekov20\\source\\repos\\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\\LibrarySystem\\LibrarySystem.DAL\\LibrarySystem.DAL.csproj",
+      "packagesPath": "C:\\Users\\GTZhekov20\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GTZhekov20\\source\\repos\\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\\LibrarySystem\\LibrarySystem.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DENIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\GTZhekov20\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2985,6 +2983,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3019,20 +3022,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -1,6 +1,6 @@
-CREATE DATABASE LibrarySystem
+CREATE DATABASE LibrarySystem3
 
-USE LibrarySystem
+USE LibrarySystem3
 
 CREATE TABLE [Books] (
 	[Id] INT IDENTITY(1, 1) PRIMARY KEY,

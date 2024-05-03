@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bec2c7-8c94-49bd-93fe-bc09db7f21f6" name="Changes" comment="" />
+    <list default="true" id="b8bec2c7-8c94-49bd-93fe-bc09db7f21f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LibrarySystem/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LibrarySystem/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LibrarySystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LibrarySystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/Debug/net7.0/LibrarySystem.DAL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/Debug/net7.0/LibrarySystem.DAL.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/Debug/net7.0/LibrarySystem.DAL.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/Debug/net7.0/LibrarySystem.DAL.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/LibrarySystem.DAL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/LibrarySystem.DAL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/LibrarySystem.DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/LibrarySystem.DAL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem.DAL/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystem.DAL/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/LibrarySystemQuery.sql" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,35 +25,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2d26iyEq9sfSo5lVkNSDvXazIKi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\GTZhekov20\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\GTZhekov20\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\GTZhekov20\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\GTZhekov20\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\GTZhekov20\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\GTZhekov20\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1709193957351</updated>
       <workItem from="1709193959510" duration="685000" />
+      <workItem from="1709290045513" duration="384000" />
+      <workItem from="1709798335324" duration="3297000" />
+      <workItem from="1709801803198" duration="3000" />
     </task>
     <servers />
   </component>

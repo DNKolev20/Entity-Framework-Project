@@ -1,0 +1,15 @@
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\bin\Debug\net7.0\LibrarySystem.DAL.deps.json
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\bin\Debug\net7.0\LibrarySystem.DAL.runtimeconfig.json
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\bin\Debug\net7.0\LibrarySystem.DAL.dll
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\bin\Debug\net7.0\LibrarySystem.DAL.pdb
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.csproj.AssemblyReference.cache
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.AssemblyInfoInputs.cache
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.AssemblyInfo.cs
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.sourcelink.json
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.dll
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\refint\LibrarySystem.DAL.dll
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.pdb
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\LibrarySystem.DAL.genruntimeconfig.cache
+C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\obj\Debug\net7.0\ref\LibrarySystem.DAL.dll

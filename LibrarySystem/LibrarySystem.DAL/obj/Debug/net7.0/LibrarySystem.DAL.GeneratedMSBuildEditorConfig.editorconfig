@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibrarySystem.DAL
-build_property.ProjectDir = C:\Users\DENIS\Documents\Entity-Framework-Project\LibrarySystem\LibrarySystem.DAL\
+build_property.ProjectDir = C:\Users\GTZhekov20\source\repos\2324-sd-csharp-entity-framework-classwork-11v-GTZhekov20\LibrarySystem\LibrarySystem.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
