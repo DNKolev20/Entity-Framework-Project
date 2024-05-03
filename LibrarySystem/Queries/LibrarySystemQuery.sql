@@ -1,0 +1,26 @@
+CREATE DATABASE LibrarySystem
+
+USE LibrarySystem
+
+CREATE TABLE [Books] (
+	[Id] INT IDENTITY(1, 1) PRIMARY KEY,
+	[Title] NVARCHAR(50) NOT NULL,
+	[Description] NVARCHAR(50) NOT NULL,
+	[Pages] SMALLINT NOT NULL,
+	[AuthorId] INT NOT NULL,
+	[GenreId] INT NOT NULL,
+	
+	FOREIGN KEY (AuthorId) REFERENCES [Authors]([Id]),
+	FOREIGN KEY (GenreId) REFERENCES [Genres]([Id])
+)
+
+CREATE TABLE [Authors] (
+	[Id] INT IDENTITY(1, 1) PRIMARY KEY,
+	[Name] NVARCHAR(50) NOT NULL,
+	[Age] TINYINT NOT NULL
+)
+
+CREATE TABLE [Genres] (
+	[Id] INT IDENTITY(1, 1) PRIMARY KEY,
+	[Type] NVARCHAR(50) NOT NULL
+)
